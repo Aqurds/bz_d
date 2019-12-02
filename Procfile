@@ -1,1 +1,1 @@
-web: gunicorn topbuilder.wsgi --log-file -
+web: gunicorn topbuilder.wsgi
